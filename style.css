@@ -1,0 +1,31 @@
+@media screen and (min-width:0px){
+    /*基本スマホ用*/
+    body{
+        background-color:#55aadd;
+    }
+    #a{
+        margin-top: 10px;
+        /*入力するとこ*/
+    }
+    #hf{
+        color:yellow;
+        background-color: black;
+        border-radius:30px;
+        /*ボタン*/
+    }
+    #b{
+        background-color: #ffffff;
+        margin:10px 50px 10px 50px;
+    /*スタック*/
+    }
+    div{
+        border:solid 1px;
+        text-align: center;
+    /*スタック*/
+    }
+}
+
+@media screen and (min-width:1024px){
+    /*パソコン用*/
+
+}
