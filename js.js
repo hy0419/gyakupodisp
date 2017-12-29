@@ -31,3 +31,8 @@ function youkoso() {
    var san = name+"さん";
     alert(san);
 }
+function bunakatu() {
+    var n= document.getElementById("a").value;
+    var kekka = n.split(" ");
+    kekka[0]
+}
